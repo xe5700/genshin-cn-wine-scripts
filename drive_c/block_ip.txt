@@ -1,0 +1,18 @@
+# Honkai Impact 3rd analytics servers (cn):
+log-upload.mihoyo.com
+public-data-api.mihoyo.com
+overseauspider.yuanshen.com
+osuspider.yuanshen.com
+devlog-upload.mihoyo.com
+devlog-upload-os.hoyoverse.com
+log-upload-os.mihoyo.com
+ys-log-upload-os.hoyoverse.com
+sdk-log-upload-os.hoyoverse.com
+ys-log-upload.mihoyo.com
+uspider.yuanshen.com
+# Honkai Star Rail analytics servers (os)
+log-upload-os.hoyoverse.com
+sg-public-data-api.hoyoverse.com
+
+# TP ACE反作弊
+dump.gamesafe.qq.com
