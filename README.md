@@ -1,6 +1,6 @@
 # Genshin Impact Wine 启动指南
 
-本指南将帮助你使用 `genshin-cn-wine-scripts` 项目在 Wine 环境下启动《原神》。我们将使用 `firejail` 和 `mosdns v4` 来增强安全性和网络性能，并通过 `genshin.yaml` 配置文件来管理启动参数。此外，我们还会使用帧率解锁工具来提升游戏体验。
+本指南将帮助你使用 `genshin-cn-wine-scripts` 项目在 Wine 环境下启动《原神》。我们将使用 `firejail` 和 `mosdns v4` 来增强安全性和网络性能。此外，我们还会使用帧率解锁工具来提升游戏体验。
 
 ## 准备工作
 
